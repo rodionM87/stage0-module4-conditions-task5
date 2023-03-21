@@ -7,5 +7,6 @@ public class LeapYearPrinter {
     
         } else {
             System.out.println("not leap");
+        }
     }
 }
