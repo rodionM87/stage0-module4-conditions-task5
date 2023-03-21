@@ -12,5 +12,6 @@ public class RangeNumbersPrinter {
             case 2:
                 System.out.println("out of range");
                 break;
+        }
     }
 }
