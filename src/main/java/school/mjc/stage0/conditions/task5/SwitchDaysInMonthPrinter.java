@@ -52,5 +52,6 @@ public class SwitchDaysInMonthPrinter {
                 break;
             default:
                 System.out.println("wrong number!");
+        }
     }
 }
